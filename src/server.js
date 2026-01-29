@@ -17,6 +17,7 @@ const corsOptions = {
     'http://localhost:5173',
     'http://localhost:3000',
     'https://infobae-back.onrender.com',
+    'https://santinou1.github.io',
     /\.vercel\.app$/,
     /\.netlify\.app$/
   ],
